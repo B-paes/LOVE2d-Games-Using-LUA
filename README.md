@@ -25,7 +25,7 @@ Love2d Games Using LUA
 
 ## Features
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
+This app features the following tools for make games:
 
 - ⚛️ **LOVE** — A framework for building games and visual interfaces.
 - ⚛️ **LUA** — High level language.
