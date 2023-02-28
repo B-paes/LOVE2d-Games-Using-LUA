@@ -17,9 +17,9 @@ Love2d Games Using LUA
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="gifs/PONG" alt="demo" height="425">
-  <img src="gifs/SHOOTER" alt="demo" height="425">
-  <img src="gifs/ARCADE" alt="demo" height="425">
+  <img src="https://github.com/B-paes/LOVE2d-Games-Using-LUA/blob/local/gifs/pong.gif" alt="demo" height="425">
+  <img src="https://github.com/B-paes/LOVE2d-Games-Using-LUA/blob/local/gifs/shooter.gif" alt="demo" height="425">
+  <img src="https://github.com/B-paes/LOVE2d-Games-Using-LUA/blob/local/gifs/arcade.gif" alt="demo" height="425">
 </div>
 
 <hr />
