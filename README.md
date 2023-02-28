@@ -28,12 +28,14 @@ Love2d Games Using LUA
 [//]: # (Add the features of your project here:)
 This app features the following tools for make games:
 
-- ⚛️ **LOVE** — A framework for building games and visual interfaces.
+- ⚛️ **LOVE** — A free source famework for building games and visual interfaces.
 - ⚛️ **LUA** — High level language.
 
 ## Getting started
 
-Describe here the way to use/install your project
+To run the game is necessary to install the LOVE framework.
+Insade the project folder in terminal you can play using the command: love [game folder].
+example: love ARCADE
 
 
 ## License
