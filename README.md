@@ -17,8 +17,9 @@ Love2d Games Using LUA
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+  <img src="gifs/PONG" alt="demo" height="425">
+  <img src="gifs/SHOOTER" alt="demo" height="425">
+  <img src="gifs/ARCADE" alt="demo" height="425">
 </div>
 
 <hr />
